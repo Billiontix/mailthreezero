@@ -705,10 +705,20 @@ button.stroke, .button.stroke {
 	border: 3px solid transparent;
 	line-height: 4.4rem;
 }
+
+button.front, .button.front {
+
+background: transparent !important;
+	border: 3px solid transparent;
+	line-height: 4.4rem;
+
+}
 button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
 }
+
+
 
 /** 
  * ===================================================================
