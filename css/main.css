@@ -839,8 +839,8 @@ header .logo a {
 	color: transparent;
 	width: 42px;
 	height: 42px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 42px 42px;
+	background: url("https://s3.us-east-2.amazonaws.com/mailthreezero/gmail_logo_b_w_2.png") no-repeat center;
+	background-size: 32px 32px;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	-webkit-transition: all 0.5s ease-in-out;
